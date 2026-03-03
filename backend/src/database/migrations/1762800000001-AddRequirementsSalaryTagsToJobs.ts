@@ -1,6 +1,6 @@
 import { MigrationInterface, QueryRunner } from 'typeorm';
 
-export class AddRequirementsSalaryTagsToJobs1740920000000
+export class AddRequirementsSalaryTagsToJobs1762800000001
     implements MigrationInterface
 {
     public async up(queryRunner: QueryRunner): Promise<void> {
